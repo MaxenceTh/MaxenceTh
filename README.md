@@ -1,9 +1,11 @@
 ## Bonjour !👋 Je suis Maxence Thomas
 
+📝 Développeur junior d'un premier emploi
+
 ## 🎯 À propos de moi
 - 🎓**Diplomé**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
 - 💻**Objectif**: Trouver un emploi en tant que développeur junior
-- 🛠️ **En montée en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
+- 🛠️ **Monter en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
 - 🏸 **Sports**: Badminton, musculation
 
 
