@@ -1,6 +1,6 @@
 ## Bonjour !👋 Je suis Maxence Thomas
 
-📝 Développeur junior d'un premier emploi
+📝 Développeur junior à la recherche d'un premier emploi
 
 ## 🎯 À propos de moi
 - 🎓**Diplomé**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
