@@ -8,7 +8,8 @@
 - 🛠️ **Monter en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
 - 🏸 **Sports**: Badminton, musculation
 
-
+## ⚙️ Compétences techniques
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <!--
 **MaxenceTh/MaxenceTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,17 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Bonjour 👋, Je suis Maxence Thomas</h1>
-<h3 align="center">Développeur junior |</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h1 align="center">Bonjour 👋, Je suis Maxence Thomas</h1>
-<h3 align="center">Développeur junior |</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
