@@ -5,7 +5,7 @@
 
 ## 🎯 À propos de moi
 - 🎓**Diplomé**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
-- 💻**Objectif**: Trouver un emploi en tant que développeur junior
+- 💻**Objectif**: Trouver un emploi en tant que développeur full stack (back/front) junior
 - 🛠️ **Monter en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
 - 🏸 **Sports**: Badminton, musculation
 
