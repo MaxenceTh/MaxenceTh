@@ -14,35 +14,77 @@
 <div align="center">
 
 ### 🧩 Langages
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</td>
+  </tr>
+</table>
 
 ---
 
 ### 🎨 Frontend
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/></a>
-<a><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/></a>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/><br>Vue.js</td>
+    <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50"/><br>Angular</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br>React</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>TailwindCSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br>HTML5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="50"/><br>CodeIgniter</td>
+  </tr>
+</table>
 
 ---
 
 ### 🔧 Backend & Outils
-<a><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a>
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/><br>Spring Boot</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/><br>Git</td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Bases de données
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/></a>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+  </tr>
+</table>
+
+---
+
+### 🤖 IA
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/><br>TensorFlow</td>
+  </tr>
+</table>
+
+---
+
+### 🐧 Linux & Big Data
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/><br>Hadoop</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="50"/><br>Hive</td>
+  </tr>
+</table>
 
 </div>
+
 
 
 <!--
