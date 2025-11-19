@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="50"/><br>Windows</td>
+     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50"/><br>Windows</td>
   </tr>
 </table>
 
