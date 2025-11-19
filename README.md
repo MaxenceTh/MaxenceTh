@@ -1,11 +1,11 @@
 ## Bonjour !👋 Je suis Maxence Thomas
 
-📝 Développeur junior à la recherche d'un premier emploi | 
+📝 Ingénieur logiciel full stack en recherche active d'un emploi | 
 <a href="https://www.linkedin.com/in/maxence-thomas-a03b57298" target="_blank" rel="noreferrer"> Mon Linkedin📫 </a>
 
 ## 🎯 À propos de moi
-- 🎓**Diplomé**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
-- 💻**Objectif**: Trouver un emploi en tant que développeur full stack (back/front) junior
+- 🎓**Diplome**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
+- 💻**Objectif**: Développer mes projets et apporter mes compétences à une entreprise.
 - 🛠️ **Monter en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
 - 🏸 **Sports**: Badminton, musculation
 
