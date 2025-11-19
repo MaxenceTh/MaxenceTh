@@ -33,11 +33,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br>React</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>TailwindCSS</td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br>CSS3</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="50"/><br>CodeIgniter</td>
-  </tr>
 </table>
 
 ---
@@ -74,12 +69,11 @@
 
 ---
 
-### 🐧 Linux & Big Data
+### 🖥️ Systèmes d’exploitation
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/><br>Hadoop</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="50"/><br>Hive</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="50"/><br>Windows</td>
   </tr>
 </table>
 
