@@ -7,7 +7,7 @@
 - 🎓**Diplome**: Master informatique (Ingénierie du logiciel, applications aux données environnementales)
 - 💻**Objectif**: Développer mes projets et apporter mes compétences à une entreprise.
 - 🛠️ **Monter en compétence**: Développement de projet utilisant des technologies utilisés en entreprise.
-- 🏸 **Sports**: Badminton, musculation
+- 🏸 **Sports**: Badminton, préparation physique
 
 ## ⚙️ Compétences techniques
 
